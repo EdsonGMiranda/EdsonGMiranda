@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on projects to make data pipelines, and provide data insights.
 - 📫 How to reach me, please send me an e-mail to dba.edson.miranda@gmail.com or send me an invite on LinkedIn  https://www.linkedin.com/in/edson-miranda-69896b38/
 
+<img width="200px" height="200px" src="https://user-images.githubusercontent.com/112988565/234137423-4c07bd5f-9a88-4ead-b9b1-e8c954cd5540.png" />
+
 
 <!---
 EdsonGMiranda/EdsonGMiranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
